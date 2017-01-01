@@ -19,3 +19,4 @@ do
 	fi
 	count=`expr $count + 1`
 done
+#this is programs helps to read a file
